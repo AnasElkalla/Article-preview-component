@@ -180,3 +180,7 @@ article {
 .active {
   display: flex;
 }
+.active-button {
+  background-color: var(--very-dark-grayish-blue);
+  color: var(--light-grayish-blue);
+}
