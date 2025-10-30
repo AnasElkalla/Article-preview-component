@@ -100,8 +100,8 @@ article {
   }
   @media (max-width: 600px) {
     &:hover {
-      color: var(--very-dark-grayish-blue);
-      background-color: var(--light-grayish-blue);
+      background-color: var(--desaturated-dark-blue);
+      color: var(--light-grayish-blue);
     }
   }
 }
@@ -180,3 +180,4 @@ article {
 .active {
   display: flex;
 }
+
