@@ -120,10 +120,10 @@ article {
   box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);
   p {
     margin-right: 1rem;
-    font-size: 0.9rem;
+    font-size: 1.1rem;
     text-transform: uppercase;
     font-weight: 700;
-    letter-spacing: 4px;
+    letter-spacing: 6px;
   }
   ul {
     list-style: none;
@@ -165,7 +165,7 @@ article {
     bottom: 0;
     right: 0;
     width: 100%;
-    padding: 2rem 3rem 2rem;
+    padding: 2.5rem 3rem;
     z-index: 10;
     border-radius: 0 0 10px 10px;
     justify-content: flex-start;
@@ -180,4 +180,3 @@ article {
 .active {
   display: flex;
 }
-
